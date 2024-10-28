@@ -12,7 +12,7 @@ qrText.addEventListener("input", handleQRText);
 sizes.addEventListener("change", handleSize);
 shareBtn.addEventListener("click", handleShare);
 
-const defaultUrl = "https://www.linkedin.com/in/mohamed-shahyn-113021256/";
+const defaultUrl = "https://www.linkedin.com/in/mohamed-shahyn";
 let colorLight = "#fff",
   colorDark = "#000",
   text = defaultUrl,
